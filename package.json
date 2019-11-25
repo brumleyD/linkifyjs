@@ -60,7 +60,7 @@
     "merge-stream": "^1.0.0",
     "mocha": "^3.0.2",
     "phantomjs-prebuilt": "^2.1.7",
-    "qunitjs": "^1.14.0",
+    "qunitjs": "^2.4.1",
     "requirejs": "^2.1.22",
     "rollup": "^0.34.7",
     "run-sequence": "^1.1.5",
