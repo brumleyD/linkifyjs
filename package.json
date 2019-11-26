@@ -36,7 +36,7 @@
     "chai": "^3.5.0",
     "coveralls": "^2.11.4",
     "glob": "^7.0.3",
-    "gulp": "^3.8.11",
+    "gulp": "^4.0.2",
     "gulp-babel": "^6.1.2",
     "gulp-clean": "^0.3.2",
     "gulp-concat": "^2.6.0",
